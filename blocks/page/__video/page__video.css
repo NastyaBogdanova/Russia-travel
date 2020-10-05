@@ -1,0 +1,16 @@
+.page__video {
+    margin: 0 auto 110px;
+    padding: 0 48px;
+}
+
+@media screen and (max-width: 768px) {
+    .page__video {
+        padding: 0 24px;
+    }
+}
+@media screen and (max-width: 425px) {
+    .page__video {
+        padding: 0 16px;
+        margin: 0 auto 64px;
+    }
+}

@@ -1,0 +1,19 @@
+.subtitle_place_video {
+    max-width: 640px;
+    font-size: 24px;
+    line-height: 35px;
+    margin: 0 auto 70px;
+}
+@media screen and (max-width: 768px) {
+    .subtitle_place_video {
+        margin: 0 auto 56px;
+    }
+}
+@media screen and (max-width: 425px) {
+    .subtitle_place_video {
+        max-width: 343px;
+        font-size: 16px;
+        line-height: 23px;
+        margin: 0 auto 24px;
+    }
+}

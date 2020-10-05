@@ -1,0 +1,19 @@
+.video__container {
+    max-width: 1184px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 16px;
+    margin-top: -9px;
+}
+@media screen and (max-width: 650px) {
+    .video__container {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-gap: 13px;
+    }
+}
+@media screen and (max-width: 425px) {
+    .video__container {
+        grid-gap: 8px;
+    }
+}
