@@ -1,6 +1,6 @@
-@import url("_place_comments/subtitle_place_comments.css");
-@import url("_place_lead/subtitle_place_lead.css");
-@import url("_place_video/subtitle_place_video.css");
+@import url("./_place_comments/subtitle_place_comments.css");
+@import url("./_place_lead/subtitle_place_lead.css");
+@import url("./_place_video/subtitle_place_video.css");
 
 .subtitle {
     text-align: center;

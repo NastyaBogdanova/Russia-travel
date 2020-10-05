@@ -1,6 +1,6 @@
-@import url("_place_comments/title_place_comments.css");
-@import url("_place_lead/title_place_lead.css");
-@import url("_place_video/title_place_video.css");
+@import url("./_place_comments/title_place_comments.css");
+@import url("./_place_lead/title_place_lead.css");
+@import url("./_place_video/title_place_video.css");
 
 .title {
     font-style: normal;
